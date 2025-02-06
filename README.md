@@ -1,4 +1,6 @@
-<h2 align="left">Hey ! Welcome on my Github profil !! 🤗<br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
+<br clear="both">
+
+<h2 align="center">Hey ! Welcome on my Github profil !! 🤗<br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
 
 ###
 
@@ -40,5 +42,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JulieRaph/JulieRaph/output/snake.svg" alt="Snake animation" />
 
 ###
