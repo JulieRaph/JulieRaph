@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey ! Welcome on my Github profil !! 🤗<br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
 
-###
+### Statistiques 📈
 
 <br clear="both">
 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulieRaph&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+### Tools 👩‍💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+### Social Media 🤝
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -49,6 +49,19 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JulieRaph/JulieRaph/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
