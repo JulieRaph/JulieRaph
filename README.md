@@ -1,6 +1,4 @@
-<br clear="both">
-<img src="https://trustmyscience.com/wp-content/uploads/2022/11/test-univers-non-reel-simulation-informatique-couv-916x611.jpg.webp  />
-
+<br clear="both"
 
 <h2 align="center">Hey ! Welcome on my Github profil !! 🤗<br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
 
