@@ -3,9 +3,7 @@
 
 
 ### About me 🫅
-Currently a student at the Holberton training school, I'm keen to embark on this adventure, which focuses on technology and its evolution.
-I'm looking for a work-study program to consolidate my theoretical knowledge with concrete and enriching professional experience. 
-An excellent communicator and team player, I'm able to work independently and manage my priorities, solve problems logically and creatively.
+
 
 
 ### Statistiques 📈
