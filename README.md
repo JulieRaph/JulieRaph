@@ -5,6 +5,7 @@
 ### About me 🫅
 
 I'm currently retraining in the world of technology. 
+
 I'm currently studying at the Holberton school, with a view to obtaining a diploma in web and mobile development. 
 
 
