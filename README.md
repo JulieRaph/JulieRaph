@@ -75,10 +75,6 @@ During this period of immersion in this world, I discovered a growing passion fo
 
   <img src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"    />
   <img width="12"   />
-
-
-  <img src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original/svg" height="30" alt="sqlite logo"    />
-  <img width="12"   />
 </div>
 
 
