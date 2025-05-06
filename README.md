@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey ! Welcome on my Github profil !! 🤗<br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
+<h2 align="center">Hey ! Welcome on my Github profil !! <br>My name is Julie Tolve and I'm a Junior Full Stack Developper</h2>
 
 
 ### About me 🫅
