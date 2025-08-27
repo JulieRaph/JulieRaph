@@ -4,9 +4,10 @@
 
 ### About me 🫅
 
-I'm currently retraining in the world of technology. 
-I'm currently studying at the Holberton school, with a view to obtaining a diploma in web and mobile development. 
-During this period of immersion in this world, I discovered a growing passion for cybersecurity and I wish to enhance my training in a professional environment through an apprenticeship or an internship. I am available for any discussions and opportunities in this regard.
+Having undertaken a career change in the world of technology.
+I am currently validating the state diploma in web and application design and development.
+During this period of immersion, I discovered a growing passion for development with an appetite for cybersecurity and wish to enrich my training in a professional environment with a new opportunity.
+I am available for any discovery on this subject.
 
 ### Statistiques 📈
 
