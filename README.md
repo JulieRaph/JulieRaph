@@ -4,10 +4,7 @@
 
 ### About me 🫅
 
-Having undertaken a career change in the world of technology.
-I am currently validating the state diploma in web and application design and development.
-During this period of immersion, I discovered a growing passion for development with an appetite for cybersecurity and wish to enrich my training in a professional environment with a new opportunity.
-I am available for any discovery on this subject.
+Project manager with a dual profile, technical and operational. Several years of project management in demanding sectors - real estate development and commerce - where I managed operations from start to finish: scoping and analysis of needs, coordination of stakeholders and service providers, keeping of milestones and budget, acceptance and customer relations until delivery. Team management and management by objectives. Training as a full-stack web developer and IBM certified Agile methodology: I communicate with the technical teams in their language and I myself designed, developed and put into production web and mobile web applications.
 
 ### Statistiques 📈
 
